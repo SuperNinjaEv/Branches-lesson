@@ -3,3 +3,9 @@ We want to have an initial commit, and need a chnage to our file.
 We are going to add a movie on the main branch!
 
 Iron Man
+
+(We originally did this in our add-movies branch, then commit'd, and merged)
+We want to add movies now.
+
+Jurassic Park
+Forest Gump

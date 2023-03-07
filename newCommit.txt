@@ -1,5 +1,5 @@
 We want to have an initial commit, and need a chnage to our file.
 
-We are going to add a movie!
+We are going to add a movie on the main branch!
 
-Jurassic Park
+Iron Man

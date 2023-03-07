@@ -1,1 +1,6 @@
 We want to have an initial commit, and need a chnage to our file.
+
+We want to add movies now.
+
+Jurassic Park
+Forest Gump
